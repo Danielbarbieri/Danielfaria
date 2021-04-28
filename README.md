@@ -1,6 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Barbieri</h1>
 <h3 align="center">A Web Developer Student programming</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 - 🔭 I’m currently working on search new challenge
 
